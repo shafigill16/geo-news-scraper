@@ -1,0 +1,35 @@
+styles_css = """
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f9f9f9;
+}
+h2 {
+    margin-top: 40px;
+}
+input, button {
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+    max-width: 500px;
+}
+textarea {
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    padding: 10px;
+}
+ul {
+    padding-left: 20px;
+}
+img {
+    max-width: 300px;
+    margin-top: 10px;
+}
+.section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ddd;
+}
