@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from logger import logger  # Logging setup
 
+
 # Load environment variables from .env
 load_dotenv()
 
